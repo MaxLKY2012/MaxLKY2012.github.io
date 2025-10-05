@@ -5,8 +5,8 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 九天之上</span>  
-        <span class="text3">是一名 又菜又爱玩的小白</span>
+        <span class="text2 title2">我是 MaxLKY</span>  
+        <span class="text3">OIer</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
@@ -44,8 +44,8 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">法学学士</span>
-          <span class="list-item" style="--color: #eb372a">房地产营销管理</span>
+          <span class="list-item" style="--color: #357ef5">小奥er</span>
+          <span class="list-item" style="--color: #eb372a">OIer</span>
         </div>
         <img
           class="career-img"
@@ -58,14 +58,14 @@
       <!-- 性格 -->
       <div class="about-item character" style="--color: #4298b4">
         <span class="tip">性格</span>
-        <span class="title2">执政官</span>
+        <span class="title2">开朗</span>
         <span class="title2" style="color: var(--color)">ESFJ-A</span>
         <span class="more">
           在
-          <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
+          <a href="https://www.luogu.com.cn/user/1092042" target="_blank">16personalities</a>
           了解更多关于
           <a href="https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC" target="_blank">
-            执政官
+            我
           </a>
         </span>
         <img
@@ -91,9 +91,9 @@
       >
         <div class="image-content">
           <span class="tip">关注偏好</span>
-          <span class="title2">数码科技</span>
+          <span class="title2">科技时事</span>
           <div class="image-desc">
-            <span class="left">手机、电脑及软硬件</span>
+            <span class="left">编程算法</span>
           </div>
         </div>
       </div>
@@ -101,12 +101,12 @@
         class="about-item like image"
         style="
           --color: #7b3c25;
-          background-image: url(https://pan.811520.xyz/2024-11/1730614179-1730614177198.webp);
+          background-image: url(https://pic1.imgdb.cn/item/68e1e019c5157e1a88576b0a.png);
         "
       >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
-          <span class="title2">华语流行、摇滚、中国风、民谣</span>
+          <span class="title2">华语流行</span>
           <div class="image-desc">
             <span class="left">一起欣赏更多音乐</span>
           </div>
@@ -144,16 +144,16 @@
           class="about-item map image"
           style="background-image: url(https://pan.811520.xyz/2024-10/1730361853-1730361845894.webp)"
         >
-          <span class="position">我现在住在 <strong>中国，武汉</strong></span>
+          <span class="position">我现在住在 <strong>中国，FJ</strong></span>
         </div>
         <div class="about-item info">
           <div class="info-item">
             <span class="info-name">生于</span>
-            <span class="info-num" style="--color: #43a6c6">保密</span>
+            <span class="info-num" style="--color: #43a6c6">2012</span>
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">资深房地产营销管理</span>
+            <span class="info-num" style="--color: #dfac46">OIer</span>
           </div>
         </div>
       </div>
