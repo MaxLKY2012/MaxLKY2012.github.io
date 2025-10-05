@@ -3,27 +3,27 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "MaxLKY",
     // 站点描述
-    description: "Hello World",
+    description: "MaxLKY",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://maxlky2012.github.io/",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "MaxLKY",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "maxlky@qq.com",
+      link: "https://www.luogu.com.cn/user/1092042",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "ICP备00000号",
   // 建站日期
-  since: "2020-07-28",
+  since: "2025-10-05",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -185,32 +185,32 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
+          url: "https://dgithub.xyz/imsyy/vitepress-theme-curve",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
           name: "SPlayer",
-          url: "https://github.com/imsyy/SPlayer",
+          url: "https://dgithub.xyz/imsyy/SPlayer",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
           name: "Snavigation",
-          url: "https://github.com/imsyy/SPlayer",
+          url: "https://dgithub.xyz/imsyy/SPlayer",
         },
         {
           icon: "/images/logo/logo.webp",
           name: "Home",
-          url: "https://github.com/imsyy/home",
+          url: "https://dgithub.xyz/imsyy/home",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
           name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
+          url: "https://dgithub.xyz/imsyy/DailyHotApi",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
           name: "site-status",
-          url: "https://github.com/imsyy/site-status",
+          url: "https://dgithub.xyz/imsyy/site-status",
         },
       ],
     },
@@ -276,10 +276,10 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
-          { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
-          { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
-          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
+          { text: "Home", link: "https://dgithub.xyz/imsyy/home/", newTab: true },
+          { text: "SPlayer", link: "https://dgithub.xyz/imsyy/SPlayer/", newTab: true },
+          { text: "DailyHotApi", link: "https://dgithub.xyz/imsyy/DailyHotApi/", newTab: true },
+          { text: "Snavigation", link: "https://dgithub.xyz/imsyy/Snavigation/", newTab: true },
         ],
       },
       {
