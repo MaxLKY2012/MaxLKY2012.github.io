@@ -3,27 +3,27 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "九天之上",
+    title: "MaxLKY",
     // 站点描述
     description: "基于 vitepress-theme-curve 搭建的 github pages 站点",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog2.811520.xyz",
+    site: "https://MaxLKY2012.github.io",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "雨天狂奔",
+      name: "MaxLKY",
       cover: "/images/logo/logo.webp",
-      email: "admin@24811213.xyz",
-      link: "https://daoyi.hidns.vip/#/",
+      email: "maxlky@qq.com",
+      link: "https://www.luogu.com.cn/user/1092042",
     },
   },
   // 备案信息
   icp: "鄂ICP备202411-001号",
   // 建站日期
-  since: "2024-11-1",
+  since: "2025-10-05",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -202,9 +202,9 @@ export const themeConfig = {
           url: "https://imgtool.v1.mk/",
         },
         {
-          icon: "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+          icon: "https://assets.dgithub.xyz/assets/apple-touch-icon-144x144-b882e354c005.png",
           name: "博客仓库",
-          url: "https://github.com/yutian81/yutian81.github.io",
+          url: "https://dgithub.xyz/yutian81/yutian81.github.io",
         },
       ],
     },
@@ -227,9 +227,9 @@ export const themeConfig = {
           url: "https://blog2.811520.xyz/blogrss/",
         },
         {
-          icon: "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+          icon: "https://assets.dgithub.xyz/assets/apple-touch-icon-144x144-b882e354c005.png",
           name: "Serv00",
-          url: "https://github.com/yutian81/serv00-ct8-ssh",
+          url: "https://dgithub.xyz/yutian81/serv00-ct8-ssh",
         },
       ],
     },
@@ -261,7 +261,7 @@ export const themeConfig = {
       },
       {
         icon: "github",
-        link: "https://github.com/yutian81/",
+        link: "https://dgithub.xyz/yutian81/",
       },
       {
         icon: "telegram",
@@ -304,8 +304,8 @@ export const themeConfig = {
       {
         text: "项目推荐",
         items: [
-          { text: "edgetunnel", link: "https://github.com/cmliu/edgetunnel", newTab: true },
-          { text: "twikoo", link: "https://github.com/yutian81/twikoo", newTab: true },
+          { text: "edgetunnel", link: "https://dgithub.xyz/cmliu/edgetunnel", newTab: true },
+          { text: "twikoo", link: "https://dgithub.xyz/yutian81/twikoo", newTab: true },
           { text: "alist", link: "https://alist.nn.ci/zh/", newTab: true },
           { text: "nezha", link: "https://nezha.wiki/guide/dashboard.html", newTab: true },
         ],
@@ -326,7 +326,7 @@ export const themeConfig = {
           { text: "音乐时刻", link: "https://blog.811520.xyz/music/", newTab: true },
           { text: "站点状态", link: "https://uptime.ytian.us.kg/status/service", newTab: true },
           { text: "站点订阅", link: "https://blog2.811520.xyz/rss.xml", newTab: true },
-          { text: "问题反馈", link: "https://github.com/yutian81/yutian81.github.io/issues", newTab: true, },
+          { text: "问题反馈", link: "https://dgithub.xyz/yutian81/yutian81.github.io/issues", newTab: true, },
         ],
       },
     ],
