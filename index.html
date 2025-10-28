@@ -626,14 +626,6 @@
                 <h2 class="card-title"><i class="material-icons">tune</i>系统设置</h2>
                 <form id="settingsForm">
                     <div class="form-group">
-                        <label for="systemName">系统名称</label>
-                        <input type="text" id="systemName" name="systemName" value="学生积分管理系统">
-                    </div>
-                    <div class="form-group">
-                        <label for="defaultPoints">默认初始积分</label>
-                        <input type="number" id="defaultPoints" name="defaultPoints" value="100" min="0">
-                    </div>
-                    <div class="form-group">
                         <label for="themeColor">主题颜色</label>
                         <input type="color" id="themeColor" name="themeColor" value="#5dade2">
                     </div>
@@ -1198,13 +1190,9 @@
                         }
                         
                         if (data.settings) {
-                            localStorage.setItem('systemName', data.settings.systemName || '学生积分管理系统');
-                            localStorage.setItem('defaultPoints', data.settings.defaultPoints || 100);
                             localStorage.setItem('themeColor', data.settings.themeColor || '#5dade2');
                             
                             // 更新设置表单
-                            document.getElementById('systemName').value = data.settings.systemName || '学生积分管理系统';
-                            document.getElementById('defaultPoints').value = data.settings.defaultPoints || 100;
                             document.getElementById('themeColor').value = data.settings.themeColor || '#5dade2';
                             
                             // 更新主题颜色
